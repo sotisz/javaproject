@@ -1,12 +1,10 @@
 package javaproject;
 
-public class amamam {
+public class asd {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.out.println("¾Ó±â¸ð¶ì");
-		
+		// asdasdasdasdasd
 	}
 
 }
